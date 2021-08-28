@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32091328066",
+    "project_id": "chucknorrisjokes-d0ef0",
+    "storage_bucket": "chucknorrisjokes-d0ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32091328066:android:b0fbf1aaf2ceb34fcc27db",
+        "android_client_info": {
+          "package_name": "com.yanus.chucknorrisjokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32091328066-a7pn8u68f7cnme8oug6e8uurevpsaaaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yanus.chucknorrisjokes",
+            "certificate_hash": "dc37402fa3e2b69d364c1285c082537008806f1a"
+          }
+        },
+        {
+          "client_id": "32091328066-cr3gam8slgc0846ckveus0kf9t2srcst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtLMyxDtyNfF18YfN90x17zC2Uo7X528"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32091328066-cr3gam8slgc0846ckveus0kf9t2srcst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

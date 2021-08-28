@@ -30,7 +30,7 @@ public class JokeActivity extends AppCompatActivity {
 
         if (savedInstanceState != null) {
             joke = savedInstanceState.getString("joke");
-            textView.setText(savedInstanceState.getString("joke"));
+            textView.setText(joke);
 
         }
 
